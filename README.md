@@ -1,3 +1,5 @@
-# Shenbo
+# Casa di Shenbo
 
-This is my blog. Nothing fancy here. Please go to my page on [MyPage](http://xuanshenbo.github.io)
+My blog at (https://xuanshenbo.github.io/blog).
+
+I post my learning notes and some tutorials irregularly.
