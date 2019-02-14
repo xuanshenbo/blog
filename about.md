@@ -1,10 +1,18 @@
 ---
-layout: about
-title: About Me
-header: About Me
-group: navigation
+layout: page
+title: About
+permalink: /about/
 ---
- * **Name:** Shenbo Xuan
- * **Email:** [xuanshenbo@hotmail.com](mailto:xuanshenbo@hotmail.com)
- * **Github:** [Shenbo's Github](https://github.com/xuanshenbo)
- * **LinkedIn:** [Shenbo Xuan](https://nz.linkedin.com/in/xuanshenbo)
+
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll

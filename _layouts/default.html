@@ -1,8 +1,6 @@
----
-theme :
-  name : Snail
-Snail :
-  about_path : /about.html
----
-{% include JB/setup %}
-{% include themes/Snail/default.html %}
+{% include header.html %}
+{% include navbar.html %}
+
+{{ content }}
+
+{% include footer.html %}
