@@ -52,7 +52,7 @@ style: compressed
 #links
 links:
   - title: Home
-    url: /
+    url: /home
     # external: true
   - title: Blog
     url: /
